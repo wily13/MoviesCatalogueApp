@@ -6,9 +6,11 @@ Android Jetpack Pro - Repository dan LiveData
   <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/menu_tab_movie.png" width="250">
   <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/menu_tab_tvshows.png" width="250">
   <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/detail_movies1.png" width="250">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/detail_movies2.png" width="250">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/detail_movies3.png" width="250">
 </p>
 
-===================================
+--------------------------------------------------------------------------------------------
 ### Library reference resources:
 
 - [Repository](https://developer.android.com/jetpack/guide)
