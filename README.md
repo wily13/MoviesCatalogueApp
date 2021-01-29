@@ -3,8 +3,8 @@ Android Jetpack Pro - Repository dan LiveData
 
 ### A basic sample android application to understand Clean Architecture in a very simple way and is written in Kotlin.
 
---------------------------------------------------------------------------------------------
-### Screenshot
+## Screenshot
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/menu_tab_movie.png" width="200">
   <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/detail_movies1.png" width="200">
