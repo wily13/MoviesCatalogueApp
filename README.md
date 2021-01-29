@@ -3,6 +3,10 @@ Android Jetpack Pro - Repository dan LiveData
 
 ### A basic sample android application to understand Clean Architecture in a very simple way and is written in Kotlin.
 
+<h4>
+	Discover the most popular movies playing. Movies data fetched using <a href="https://www.themoviedb.org/">themoviedb.org</a> API.
+</h4>
+
 ## Screenshot
 
 <p align="center">
