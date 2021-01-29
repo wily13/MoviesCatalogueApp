@@ -22,6 +22,10 @@ Android Jetpack Pro - Repository dan LiveData
   <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/detail_tvshows_share.png" width="200">
 </p>
 
+<h4>
+	Discover the most popular movies playing. Movies data fetched using <a href="https://www.themoviedb.org/">themoviedb.org</a> API.
+</h4>
+
 --------------------------------------------------------------------------------------------
 ### Library reference resources:
 
