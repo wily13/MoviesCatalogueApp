@@ -3,10 +3,10 @@ Android Jetpack Pro - Repository dan LiveData
 
 # Screenshot
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/menu_tab_movie.png" width="250">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/detail_movies1.png" width="250">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/detail_movies2.png" width="250">
-  <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/detail_movies_share.png" width="250">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/menu_tab_movie.png" width="200">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/detail_movies1.png" width="200">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/detail_movies2.png" width="200">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/detail_movies_share.png" width="200">
 </p>
 
 <p align="center">
