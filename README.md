@@ -3,7 +3,9 @@ Android Jetpack Pro - Repository dan LiveData
 
 # Screenshot
 <p align="center">
-  
+  <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/menu_tab_movie.png" width="250">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/menu_tab_tvshows.png" width="250">
+  <img src="https://raw.githubusercontent.com/wily13/MoviesCatalogueApp/master/screenshot/detail_movies1.png" width="250">
 </p>
 
 ===================================
